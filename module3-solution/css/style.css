@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: system-ui;
+}
+#header-nav{
+
+}
+#logo{
+	height: 67px;
+}
+#logo span{
+	color: black;
+	font-size: 28px;
+    line-height: 30px;
+    font-weight: bold;
+}
+.navbar-toggle{
+	margin-top: 17px;
+}
+li a{
+	text-align: center;
+}
+#head{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+.inner-section{
+	margin:50px auto;
+	background-color: gray;
+	border: 2px solid black;
+	padding: 10px;
+}
